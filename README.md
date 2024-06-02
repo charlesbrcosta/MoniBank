@@ -25,7 +25,7 @@ Além disso, você pode acessar a demonstração interativa do projeto [clique a
 
 - Navegador web moderno que suporte HTML5, CSS3 e JavaScript.
 
-## :open_file_folder: ## Baixar o projeto no computador
+## :open_file_folder: Baixar o projeto no computador
 
 1. Clone o repositório:
 
